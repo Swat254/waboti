@@ -1,0 +1,6 @@
+{
+  "name": "presence-bot",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
